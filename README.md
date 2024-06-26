@@ -1,5 +1,7 @@
 # PowerBi-Credit-Card-Analysis
 
-![](Transaction report.png)
+![](Transaction_Dashboard.png)
 
-![](Customer Dashboard.png)
+![](Customer_Dashboard.png)
+
+
