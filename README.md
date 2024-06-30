@@ -88,4 +88,4 @@ Most transactions are via swipe, followed by chip and online methods meaning cus
 
 ## Conclusion and recommendations
 
-For a deeper dive into the analytics, the datasets from previous years will be required for comparison and data-driven decision-making. 
+For a deeper dive into the analytics, the datasets from previous years will be required for comparison and data-driven decision-making as well as the volumes as they were fluctuating in 2023 every quarter compared to the transaction values. 
