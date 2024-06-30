@@ -48,9 +48,13 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 
 ## Analysis
 **Summary**
+
 **_Customer Demographics_**: The most valuable customers are typically businessmen, married, aged 40-49, and with higher education levels.
+
 **_Product Performance:_** Blue card is the most used and most profitable, suggesting a focus on this segment could enhance further profitability.
+
 **_Expenditure Patterns:_** The majority of spending occurs on bills, suggesting that these cards are used for daily financial management rather than just discretionary spending.
+
 **_Technology Use:_** The dominance of swipe transactions over chip and online methods may indicate a market lag in adopting newer technologies or a preference for traditional methods (in-store vs online purchases) among the user base.
 
 **Detailed Analysis**
