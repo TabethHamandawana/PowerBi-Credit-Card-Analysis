@@ -39,7 +39,7 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 **Features**
 - Transaction data such as expenditure type, card category, job, chip use, revenue, and volumes
   
-![](Transaction_D.PNG)
+![](Transaction_d.PNG)
 
 **Features**
 - Customer data such as age, household size, job, state, education level, marital status, income group, and gender
@@ -59,6 +59,7 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 
 **Detailed Analysis**
 ![](house_size.PNG)
+
 **Revenue by Household Size**: 2 and 3-person households tend to generate more revenue.
 
 **Revenue by Customer Job**:
@@ -66,21 +67,25 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 - Blue-collar and government employees also contribute significantly.
 
 ![](val_&_vol.PNG)
+
 **Weekly Revenue Trends**: 
 - Shows seasonal or monthly trends in revenue generation, differentiated by gender.
 - There are weekly fluctuations, however, every quarter, revenues are consistent throughout the year distributed at approximately 25% every quarter
 
 ![](educ_level.PNG)
+
 **Revenue by Education Level**: Higher education levels correspond to higher revenue generation.
 
-**Revenue by Marital Status and Age**: Married customers and those aged 40-49 are leading in revenue generation perhaps because they are more table in their careers.
+**Revenue by Marital Status and Age**: Married customers and those aged 40-49 are leading in revenue generation perhaps because they are more stable in their careers.
 
 ![](Card_category.PNG)
+
 **Card Category Analysis**:
 - Blue cards dominate the market in revenue, transactions, and interest.
 - Silver and gold cards also contribute but to a lesser extent.
 
 ![](Expense_type.PNG)
+
 **Revenue by Expenditure Type:**
 - Bills and entertainment are major expenditure types.
 - Food and travel are significant but lesser.
@@ -88,6 +93,7 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 **Revenue by Education Level:** Graduates are the highest contributors, significantly more than high school or post-graduate levels.
 
 ![](use_chip.PNG)
+
 **Revenue by Card Usage:**
 Most transactions are via swipe, followed by chip and online methods meaning customers are mostly purchasing in-store.
 
